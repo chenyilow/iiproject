@@ -12,3 +12,5 @@ pipeline/syntactic/parallel_corpus/lang8_Eng_1.0.xml
 pipeline/semantic/results_synthetic/
 pipeline/word_alignment/text_alignment/sample.out
 pipeline/word_alignment/text_alignment/sample.out/model1
+pipeline/semantic/results_synthetic/
+pipeline/word_alignment/text_alignment/
